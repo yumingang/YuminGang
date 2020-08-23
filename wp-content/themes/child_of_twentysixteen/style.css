@@ -24,3 +24,8 @@ body, button, input, select, textarea {
 .site-branding .site-title a:hover, .site-branding .site-title a:focus {
     color: #DBB7A6;
 }
+
+body, button, input, select, textarea {
+    color: #594F45;
+  }
+
